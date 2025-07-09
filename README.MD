@@ -18,6 +18,7 @@ Os desafios estão organizados em arquivos individuais, nomeados como `nivel-de-
 |---------|-----------|
 | Nível de Herói | Uso de condições e loops |
 | Calculadora de Ranking | Uso de condições e funções. |
+| Classes de um Jogo | Uso de classes e métodos |
 
 ## 🛠 Tecnologias Utilizadas
 
